@@ -1,0 +1,65 @@
+#banner {
+    position: relative;
+}
+
+.banner_row h1 {
+    width: 523px;
+    font-size: 86px;
+    font-weight: 400;
+    font-family: "Belleza", sans-serif;
+    color: #010101;
+}
+
+.banner_text a {
+    width: 178px;
+    height: 55px;
+    border-radius: 38px;
+    font-size: 19px;
+    font-weight: 400;
+    font-family: "Adamina", serif;
+    background: #010101;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 52px;
+    margin-bottom: 77px;
+
+}
+
+.banner_text .para1 {
+    width: 320px;
+    font-size: 24px;
+    font-weight: 400;
+    font-family: "Adamina", serif;
+    color: #000000;
+}
+
+.banner_text .para2 {
+    width: 271px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Adamina", serif;
+    color: #000000;
+    margin-top: 33px;
+    margin-bottom: 62px;
+}
+
+.banner_brands {
+    display: flex;
+    gap: 90px;
+}
+
+.banner_brands .banner_img {
+    width: 190px;
+}
+
+.banner_brands .banner_img2 {
+    width: 114px;
+}
+
+.imgbaner {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
